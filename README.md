@@ -1,7 +1,8 @@
 # ProcessWire Emoji Textformatter Module
 
 This module converts named shortcode emojis in ProcessWire text or textarea fields 
-to the corresponding UTF-8 emoji character. For instance `:smile:` converts to: 😄
+to the corresponding UTF-8 emoji character. For instance `:smile:` converts to a
+smile 😄 emoji.
 
 This can be especially useful if your ProcessWire uses the `utf8` character set 
 rather than `utf8mb4` as it enables you to use emojis on an installation that 
